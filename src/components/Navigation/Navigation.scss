@@ -1,9 +1,11 @@
 .navigation-container {
+ 
   padding: 25px;
   display: flex;
   justify-content: flex-end;
 
   .navigation-child{
+    margin: 10px;
     font-size: larger ;
     text-decoration: underline;
     font-weight:bold ;
